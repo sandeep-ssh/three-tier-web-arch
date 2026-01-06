@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/awsshivs/ab3-web-app-backend.git"
+    "url": "git+https://github.com/sandeep-ssh/three-tier-web-arch.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/awsshivs/ab3-web-app-backend/issues"
+    "url": "https://github.com/sandeep-ssh/three-tier-web-archissues"
   },
-  "homepage": "https://github.com/awsshivs/ab3-web-app-backend#readme",
+  "homepage": "https://github.com/sandeep-ssh/three-tier-web-arch#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
